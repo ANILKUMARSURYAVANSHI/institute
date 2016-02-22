@@ -1,0 +1,18 @@
+.body{
+    background-color:azure
+}
+.navarea{
+    background-color: aquamarine;
+    padding: 1%;
+    margin-top: 2%
+    
+}
+.dashtext{
+    background-color: antiquewhite;
+    padding: 3%;
+    
+}
+.but{
+    color: black;
+    width: 100%;
+}
